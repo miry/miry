@@ -5,6 +5,7 @@
 [#RussianATerroristState](https://twitter.com/hashtag/RussianATerroristState)
 
 
+```
                           ▓▓▓▓                          
                         ░░████                          
                         ████████                        
@@ -44,3 +45,4 @@
                     ░░██████████▓▓                      
                       ░░██████▒▒                        
                           ██▒▒                          
+```
